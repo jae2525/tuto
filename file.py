@@ -1,6 +1,6 @@
 f = open("C:/car_txt/a.csv")
 lines = f.readlines()
-cur_date = "20200318"
+cur_date = "20200320"
 cur_line=""
 for line in lines:
     line = line[1:-2]
